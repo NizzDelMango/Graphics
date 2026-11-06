@@ -1,1 +1,10 @@
 *.blend1
+
+# Substance Painter autosaves
+*_autosave_*.spp
+
+# Unreal Engine generated folders
+**/UE/*/Binaries/
+**/UE/*/DerivedDataCache/
+**/UE/*/Intermediate/
+**/UE/*/Saved/

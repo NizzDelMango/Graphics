@@ -1,0 +1,375 @@
+{
+ "Wall": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Textures\\Concrete044B_2K-JPG\\Concrete044B_2K-JPG_Color.jpg",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Textures\\Concrete044B_2K-JPG\\Concrete044B_2K-JPG_Metalness.jpg",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Textures\\Concrete044B_2K-JPG\\Concrete044B_2K-JPG_Roughness.jpg",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Textures\\Concrete044B_2K-JPG\\Concrete044B_2K-JPG_NormalGL.jpg"
+  },
+  "tiling": 2.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "Chiffonier": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Chiffonier\\PrincipledBSDF\\Chiffonier_BaseColor.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Chiffonier\\PrincipledBSDF\\Chiffonier_Metallic.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Chiffonier\\PrincipledBSDF\\Chiffonier_Roughness.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Chiffonier\\PrincipledBSDF\\Chiffonier_Normal.png",
+   "Emissive": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Chiffonier\\PrincipledBSDF\\Chiffonier_Emission.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 10.0,
+  "normal_strength": 1.0
+ },
+ "Material": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Textures\\Concrete031_2K-JPG\\Concrete031_2K-JPG_Color.jpg",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Textures\\Concrete031_2K-JPG\\Concrete031_2K-JPG_Roughness.jpg",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Textures\\Concrete031_2K-JPG\\Concrete031_2K-JPG_NormalGL.jpg"
+  },
+  "tiling": 5.0,
+  "rough_ramp": [
+   0.6090906262397766,
+   1.0
+  ],
+  "emissive_strength": 0.0,
+  "normal_strength": 0.20000000298023224
+ },
+ "BedLight": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Light\\PrincipledBSDF\\BedLight_BaseColor.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Light\\PrincipledBSDF\\BedLight_Metallic.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Light\\PrincipledBSDF\\BedLight_Roughness.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Light\\PrincipledBSDF\\BedLight_Normal.png",
+   "Emissive": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Light\\PrincipledBSDF\\BedLight_Emission.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 3.0,
+  "normal_strength": 1.0
+ },
+ "BedFrame": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Bed\\Textures\\PrincipledBSDF\\Frame_BaseColor.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Bed\\Textures\\PrincipledBSDF\\Frame_Metallic.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Bed\\Textures\\PrincipledBSDF\\Frame_Roughness.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Bed\\Textures\\PrincipledBSDF\\Frame_Normal.png",
+   "Emissive": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Bed\\Textures\\PrincipledBSDF\\Frame_Emission.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "BedClothes": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Bed\\Textures\\PrincipledBSDF\\Bedclothes_BaseColor.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Bed\\Textures\\PrincipledBSDF\\Bedclothes_Metallic.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Bed\\Textures\\PrincipledBSDF\\Bedclothes_Roughness.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Bed\\Textures\\PrincipledBSDF\\Bedclothes_Normal.png",
+   "Emissive": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Bed\\Textures\\PrincipledBSDF\\Bedclothes_Emission.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "Pipe1": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Pipe\\Pipe1\\PrincipledBSDF\\Pipe1_BaseColor.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Pipe\\Pipe1\\PrincipledBSDF\\Pipe1_Metallic.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Pipe\\Pipe1\\PrincipledBSDF\\Pipe1_Roughness.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Pipe\\Pipe1\\PrincipledBSDF\\Pipe1_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "Box_C-01": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Box\\BoxC\\PrincipledBSDF\\BoxC01\\Box_C-01_BaseColor.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Box\\BoxC\\PrincipledBSDF\\BoxC01\\Box_C-01_Metallic.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Box\\BoxC\\PrincipledBSDF\\BoxC01\\Box_C-01_Roughness.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Box\\BoxC\\PrincipledBSDF\\BoxC01\\Box_C-01_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "Box_C-02": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Box\\BoxC\\PrincipledBSDF\\BoxC02\\Box_C-02_BaseColor.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Box\\BoxC\\PrincipledBSDF\\BoxC02\\Box_C-02_Metallic.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Box\\BoxC\\PrincipledBSDF\\BoxC02\\Box_C-02_Roughness.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Box\\BoxC\\PrincipledBSDF\\BoxC02\\Box_C-02_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "Box_B": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Box\\BoxB\\PrincipledBSDF\\Box_B_BaseColor.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Box\\BoxB\\PrincipledBSDF\\Box_B_Roughness.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Box\\BoxB\\PrincipledBSDF\\Box_B_Metallic.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Box\\BoxB\\PrincipledBSDF\\Box_B_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "Box_E": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Box\\BoxE\\PrincipledBSDF\\Box_E_BaseColor.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Box\\BoxE\\PrincipledBSDF\\Box_E_Roughness.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Box\\BoxE\\PrincipledBSDF\\Box_E_Metallic.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Box\\BoxE\\PrincipledBSDF\\Box_E_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "L-ShapedDesk": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsLarge\\LShapedDesk\\Textures\\PrincipledBSDF\\L-ShapedDesk_low_L-ShapedDesk_BaseColor.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsLarge\\LShapedDesk\\Textures\\PrincipledBSDF\\L-ShapedDesk_low_L-ShapedDesk_Roughness.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsLarge\\LShapedDesk\\Textures\\PrincipledBSDF\\L-ShapedDesk_low_L-ShapedDesk_Metallic.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsLarge\\LShapedDesk\\Textures\\PrincipledBSDF\\L-ShapedDesk_low_L-ShapedDesk_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": [
+   0.0,
+   0.33636394143104553
+  ],
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "Ashtray": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\Ashtray\\PrincipledBSDF\\Ashtray_BaseColor.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\Ashtray\\PrincipledBSDF\\Ashtray_Roughness.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\Ashtray\\PrincipledBSDF\\Ashtray_Metallic.png",
+   "Emissive": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\Ashtray\\PrincipledBSDF\\Ashtray_Emission.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\Ashtray\\PrincipledBSDF\\Ashtray_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "FlashLight": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\FlashLight\\PrincipledBSDF\\FlashLight_BaseColor.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\FlashLight\\PrincipledBSDF\\FlashLight_Roughness.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\FlashLight\\PrincipledBSDF\\FlashLight_Metallic.png",
+   "Emissive": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\FlashLight\\PrincipledBSDF\\FlashLight_Emission.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\FlashLight\\PrincipledBSDF\\FlashLight_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "ToolStand": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ToolStand\\Textures\\PrincipledBSDF\\ToolStand_BaseColor.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ToolStand\\Textures\\PrincipledBSDF\\ToolStand_Roughness.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ToolStand\\Textures\\PrincipledBSDF\\ToolStand_Metallic.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ToolStand\\Textures\\PrincipledBSDF\\ToolStand_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "MetalRack": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsLarge\\MetalRack\\Textures\\PrincipledBSDF\\MetalRack_BaseColor.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsLarge\\MetalRack\\Textures\\PrincipledBSDF\\MetalRack_Roughness.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsLarge\\MetalRack\\Textures\\PrincipledBSDF\\MetalRack_Metallic.png",
+   "Emissive": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsLarge\\MetalRack\\Textures\\PrincipledBSDF\\MetalRack_Emission.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsLarge\\MetalRack\\Textures\\PrincipledBSDF\\MetalRack_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 6.799999713897705,
+  "normal_strength": 1.0
+ },
+ "ShelfProp_02": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ShelfProp\\ShelfProp02\\Textures\\PrincipledBSDF\\ShelfProp_02_BaseColor.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ShelfProp\\ShelfProp02\\Textures\\PrincipledBSDF\\ShelfProp_02_Roughness.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ShelfProp\\ShelfProp02\\Textures\\PrincipledBSDF\\ShelfProp_02_Metallic.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ShelfProp\\ShelfProp02\\Textures\\PrincipledBSDF\\ShelfProp_02_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "ShelfProp_03": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ShelfProp\\ShelfProp03\\Textures\\PrincipledBSDF\\ShelfProp_03_BaseColor.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ShelfProp\\ShelfProp03\\Textures\\PrincipledBSDF\\ShelfProp_03_Roughness.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ShelfProp\\ShelfProp03\\Textures\\PrincipledBSDF\\ShelfProp_03_Metallic.png",
+   "Emissive": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ShelfProp\\ShelfProp03\\Textures\\PrincipledBSDF\\ShelfProp_03_Emission.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ShelfProp\\ShelfProp03\\Textures\\PrincipledBSDF\\ShelfProp_03_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "ShelfProp_04": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ShelfProp\\ShelfProp04\\Textures\\PrincipledBSDF\\ShelfProp_04_BaseColor.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ShelfProp\\ShelfProp04\\Textures\\PrincipledBSDF\\ShelfProp_04_Roughness.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ShelfProp\\ShelfProp04\\Textures\\PrincipledBSDF\\ShelfProp_04_Metallic.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ShelfProp\\ShelfProp04\\Textures\\PrincipledBSDF\\ShelfProp_04_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "ShelfProp_01": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ShelfProp\\ShelfProp01\\Textures\\PrincipledBSDF\\ShelfProp_01_BaseColor.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ShelfProp\\ShelfProp01\\Textures\\PrincipledBSDF\\ShelfProp_01_Roughness.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ShelfProp\\ShelfProp01\\Textures\\PrincipledBSDF\\ShelfProp_01_Metallic.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ShelfProp\\ShelfProp01\\Textures\\PrincipledBSDF\\ShelfProp_01_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "Paper_01": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\Paper\\Textures\\PrincipledBSDF\\Paper_01_BaseColor.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\Paper\\Textures\\PrincipledBSDF\\Paper_01_Roughness.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\Paper\\Textures\\PrincipledBSDF\\Paper_01_Metallic.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\Paper\\Textures\\PrincipledBSDF\\Paper_01_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "Paper_01.001": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\Paper\\Textures\\PrincipledBSDF\\Paper_01_BaseColor.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\Paper\\Textures\\PrincipledBSDF\\Paper_01_Roughness.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\Paper\\Textures\\PrincipledBSDF\\Paper_01_Metallic.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\Paper\\Textures\\PrincipledBSDF\\Paper_01_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "Paper_01.002": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\Paper\\Textures\\PrincipledBSDF\\Paper_01_BaseColor.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\Paper\\Textures\\PrincipledBSDF\\Paper_01_Roughness.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\Paper\\Textures\\PrincipledBSDF\\Paper_01_Metallic.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\Paper\\Textures\\PrincipledBSDF\\Paper_01_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "ToolBox_01": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ToolBox\\ToolBox01\\Textures\\PrincipledBSDF\\ToolBox_01_BaseColor.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ToolBox\\ToolBox01\\Textures\\PrincipledBSDF\\ToolBox_01_Roughness.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ToolBox\\ToolBox01\\Textures\\PrincipledBSDF\\ToolBox_01_Metallic.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ToolBox\\ToolBox01\\Textures\\PrincipledBSDF\\ToolBox_01_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "SolderingIron": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\SolderingIron\\Textures\\PrincipledBSDF\\SolderingIron_BaseColor.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\SolderingIron\\Textures\\PrincipledBSDF\\SolderingIron_Roughness.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\SolderingIron\\Textures\\PrincipledBSDF\\SolderingIron_Metallic.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\SolderingIron\\Textures\\PrincipledBSDF\\SolderingIron_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "SolderHolder": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\SolderHolder\\Textures\\PrincipledBSDF\\SolderHolder_BaseColor.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\SolderHolder\\Textures\\PrincipledBSDF\\SolderHolder_Roughness.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\SolderHolder\\Textures\\PrincipledBSDF\\SolderHolder_Metallic.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\SolderHolder\\Textures\\PrincipledBSDF\\SolderHolder_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "Screwdriver_01": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\Screwdriver\\Screwdriver01\\Textures\\PrincipledBSDF\\Screwdriver_01_BaseColor.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\Screwdriver\\Screwdriver01\\Textures\\PrincipledBSDF\\Screwdriver_01_Roughness.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\Screwdriver\\Screwdriver01\\Textures\\PrincipledBSDF\\Screwdriver_01_Metallic.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\Screwdriver\\Screwdriver01\\Textures\\PrincipledBSDF\\Screwdriver_01_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "CuttingMat": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsMedium\\CuttingMat\\Textures\\PrincipledBSDF\\CuttingMat_BaseColor.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsMedium\\CuttingMat\\Textures\\PrincipledBSDF\\CuttingMat_Roughness.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsMedium\\CuttingMat\\Textures\\PrincipledBSDF\\CuttingMat_Metallic.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsMedium\\CuttingMat\\Textures\\PrincipledBSDF\\CuttingMat_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "Chair": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsMedium\\Chair\\Textures\\PrincipledBSDF\\Chair_BaseColor.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsMedium\\Chair\\Textures\\PrincipledBSDF\\Chair_Roughness.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsMedium\\Chair\\Textures\\PrincipledBSDF\\Chair_Metallic.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsMedium\\Chair\\Textures\\PrincipledBSDF\\Chair_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ },
+ "ShelfProp_05": {
+  "textures": {
+   "BaseColor": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ShelfProp\\ShelfProp05\\Textures\\PrincipledBSDF\\DefaultMaterial_BaseColor.png",
+   "Roughness": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ShelfProp\\ShelfProp05\\Textures\\PrincipledBSDF\\DefaultMaterial_Roughness.png",
+   "Metallic": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ShelfProp\\ShelfProp05\\Textures\\PrincipledBSDF\\DefaultMaterial_Metallic.png",
+   "Normal": "E:\\GitHub\\Graphics\\Projects\\Portfolio\\SFRoom2\\Models\\Props\\PropsSmall\\ShelfProp\\ShelfProp05\\Textures\\PrincipledBSDF\\DefaultMaterial_Normal.png"
+  },
+  "tiling": 1.0,
+  "rough_ramp": null,
+  "emissive_strength": 0.0,
+  "normal_strength": 1.0
+ }
+}
